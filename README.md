@@ -6,7 +6,7 @@ I'm a backend-focused developer from India 🇮🇳 passionate about building ef
 
 🔭 **Currently working on:** Building robust backend systems with Node.js and exploring distributed architectures  
 🌱 **Learning:** System design, Redis, Docker, and advanced database optimization  
-💼 **Open to:** Backend engineer internships, junior full-stack roles, and freelance API development  
+💼 **Open to:** Backend engineer internships/junior roles, and freelance API development  
 📫 **Reach me:** aryanthakur122003@gmail.com
 
 ---
@@ -19,6 +19,10 @@ I'm a backend-focused developer from India 🇮🇳 passionate about building ef
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**APIs & Architecture**  
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Databases & ORMs**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -38,7 +42,7 @@ I'm a backend-focused developer from India 🇮🇳 passionate about building ef
 ### ShortURL Pro
 A production-ready URL shortener with advanced analytics, custom aliases, QR code generation, and detailed click tracking (device, browser, OS).
 
-**Tech Stack:** Node.js, Express, Prisma, MongoDB, JWT, Zod  
+**Tech Stack:** Node.js, Express, Prisma, MongoDB, JWT, Zod 
 **Features:** Custom short links, analytics dashboard, expiration management, secure authentication
 
 🔗 *Repository coming soon*
