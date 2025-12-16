@@ -51,9 +51,9 @@ A production-ready URL shortener with advanced analytics, custom aliases, QR cod
 
 ## 📊 GitHub Stats
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanT1&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanT1&layout=compact&theme=radical&hide_border=true)
 
 ---
 
