@@ -23,11 +23,13 @@ I'm a backend-focused developer from India 🇮🇳 passionate about building ef
 **APIs & Architecture**  
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 **Databases & ORMs**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Tools & Technologies**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,7 +47,7 @@ A production-ready URL shortener with advanced analytics, custom aliases, QR cod
 **Tech Stack:** Node.js, Express, Prisma, MongoDB, JWT, Zod 
 **Features:** Custom short links, analytics dashboard, expiration management, secure authentication
 
-🔗 *Repository coming soon*
+🔗 [![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanT1/ShortUrl)
 
 ---
 
@@ -60,6 +62,7 @@ A production-ready URL shortener with advanced analytics, custom aliases, QR cod
 ## 💬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryannthakur/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/WorkGolu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanthakur122003@gmail.com)
 
 ---
