@@ -8,7 +8,7 @@
   <a href="mailto:aryanthakur122003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 🚀 Professional Profile
+### 🚀 About Me
 I am an aspiring **Backend Engineer** 🇮🇳 with a deep interest in building high-performance, distributed systems. My core expertise lies in developing secure, scalable APIs, and I am currently deepening my knowledge in **System Design** and **Cloud Infrastructure** to build the next generation of resilient applications.
 
 - 🔭 **Current Focus:** Architecting scalable backend systems and exploring advanced **System Design** patterns.
